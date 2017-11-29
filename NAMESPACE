@@ -1,0 +1,9 @@
+exportPattern("^[^\\.]")
+importFrom("grDevices", "extendrange")
+importFrom("graphics", "symbols", "plot", "lines")
+importFrom("utils", "read.csv")
+importFrom("tibble", "as_tibble")
+importFrom("sf", "read_sf", "plot_sf", "st_crs",
+           "st_crs<-", "st_centroid", "st_geometry",
+           "st_coordinates")
+

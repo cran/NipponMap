@@ -1,0 +1,9 @@
+2017-11-29 Susumu Tanimura <aruminat@gmail.com>
+	* Initial release. version 0.1
+	* Added JapanPrefCartogram() and JapanPrefCartogram.R
+	* Changed JapanPrefecturesMap() to JapanPrefMap()
+2017-11-28 Susumu Tanimura <aruminat@gmail.com>
+	* Fixed NAMESPACE
+	* Revised DESCRIPTION
+2016-01-06 Susumu Tanimura <aruminat@gmail.com>
+	* Moved JapanPrefecturesMap() of Nippon as a new package
