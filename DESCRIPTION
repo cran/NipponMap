@@ -1,6 +1,6 @@
 Package: NipponMap
-Version: 0.1
-Date: 2017-11-29
+Version: 0.2
+Date: 2018-05-16
 Title: Japanese Map Data and Functions
 Authors@R: c(person("Susumu", "Tanimura", role = c("aut", "cre"),
             email = "aruminat@gmail.com"))
@@ -13,6 +13,6 @@ Description: Digital map data of Japan for choropleth mapping, including a circl
 License: GPL (>= 2)
 NeedsCompilation: no
 Type: Package
-Packaged: 2017-11-29 10:01:44 UTC; umusus
+Packaged: 2018-05-16 12:20:41 UTC; umusus
 Repository: CRAN
-Date/Publication: 2017-11-29 16:39:42 UTC
+Date/Publication: 2018-05-16 12:30:20 UTC

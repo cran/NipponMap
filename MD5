@@ -1,11 +1,12 @@
-97960d3a0209cc38f6de50e621f6cd52 *ChangeLog
-112b1b11a8d7d46ae53a5d728cf54d7c *DESCRIPTION
+ea7ff8f095ff6b88678f629640dfa02b *ChangeLog
+d5ae3e2f8e0cf4ebda0a7a09ae23e412 *DESCRIPTION
 f4a7c4996be6da405683614beb021351 *NAMESPACE
 354b9a73a69d8a0db4a21961edfb49a9 *R/JapanPrefCartogram.R
-8ed5ab0270a84693c8334231d5472cf2 *R/JapanPrefMap.R
+6e6c8644285f891348f5a65648dc1310 *R/JapanPrefMap.R
+fd21497606c12ccb08ca36cd783f3c3f *build/partial.rdb
 c57bab28a8b53120ffd29b6741693a38 *inst/shapes/jpn.dbf
 340ff5d349ef0979a2065c5ae7499f7b *inst/shapes/jpn.shp
 3716faf496a1ea69e1f4d78c6b0fd96c *inst/shapes/jpn.shx
 4499803f9e5f8b4f6a62f1d04941175d *man/JapanPrefCartogram.Rd
-471ebcc975e8c1745cb3620a6a40d6a6 *man/JapanPrefMap.Rd
-40bdad67f71719a12ad446350a301ea6 *man/NipponMap-package.Rd
+952ff9c7ee876d5f8b35145cdab8a517 *man/JapanPrefMap.Rd
+b2e669f95ed26b0c12bebded163a82fa *man/NipponMap-package.Rd

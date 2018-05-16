@@ -2,38 +2,48 @@
 \alias{NipponMap-package}
 \alias{NipponMap}
 \docType{package}
-\title{Japanese Map Data and Functions}
+\title{
+\packageTitle{NipponMap}
+}
 \description{
-Digital map data of Japan for choropleth mapping, including a circle cartogram.
+\packageDescription{NipponMap}
 }
 \details{
-\tabular{ll}{
-Package: \tab NipponMap\cr
-Type: \tab Package\cr
-Version: \tab 0.1\cr
-Date: \tab 2017-11-29\cr
-License: \tab GPL (>=2)\cr
-}
-To avoid troubles with Japanese strings, non-ASCII Japanese characters
-in R object is sanitized or converted into ASCII characters by utility
-functions in this package. Some common data for Japanese are planned to
-preset, for preventing from burdensome input. (Those will be reinforced
-in further version).
+
+The DESCRIPTION file:
+\packageDESCRIPTION{NipponMap}
+\packageIndices{NipponMap}
+%% \tabular{ll}{
+%% Package: \tab NipponMap\cr
+%% Type: \tab Package\cr
+%% Version: \tab 0.1\cr
+%% Date: \tab 2017-11-29\cr
+%% License: \tab GPL (>=2)\cr
+%% }
+The package provides digital map data and functions of Japan for very
+simple choropleth mapping in prefecture level. The cartographic function
+in \pkg{Nippon} package was moved to \pkg{NipponMap} package. If a user
+needs more complex digital map data or in municipal level, such data is
+available in other package (e.g., \pkg{jpndistrict} and
+\pkg{divagis}). }
+
+\author{
+\packageAuthor{NipponMap}
+
+Maintainer: \packageMaintainer{NipponMap}
 }
 
-\author{Susumu Tanimura \email{aruminat@gmail.com}}
+%% \references{
+%% ~~ Literature or other references for background information ~~
+%% }
+%% ~~ Optionally other standard keywords, one per line, from file KEYWORDS in ~~
 
-% \references{
-% ~~ Literature or other references for background information ~~
-% }
-% ~~ Optionally other standard keywords, one per line, from file KEYWORDS in ~~
-% ~~ the R documentation directory ~~
-%\keyword{packagelibrary}
-%\keyword{character}
-% \seealso{
-% ~~ Optional links to other man pages, e.g. ~~
-% ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
-% }
-% \examples{
-% ~~ simple examples of the most important functions ~~
-% }
+%% ~~ the R documentation directory ~~
+%% \keyword{ package }
+%% \seealso{
+%% ~~ Optional links to other man pages, e.g. ~~
+%% ~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
+%% }
+%% \examples{
+%% ~~ simple examples of the most important functions ~~
+%% }

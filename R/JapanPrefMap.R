@@ -1,8 +1,10 @@
 ### Susumu Tanimura <aruminat@gmail.com>
-### Time-stamp: <2017-11-29 17:17:54 umusus>
+### Time-stamp: <2018-05-16 21:10:09 umusus>
 ### Draw very simplified Japan map with prefecture boundaries.
 
 JapanPrefMap <- function(col = NULL, inset = TRUE, ...){
+    if(is.null(col))
+        col <- rep("transparent", 47)
     shp <- system.file("shapes/jpn.shp", package="NipponMap")[1]
     m <- read_sf(shp)
     st_crs(m) <- "+proj=longlat +datum=WGS84"

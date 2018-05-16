@@ -87,6 +87,7 @@ par(op)
 
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
-\keyword{character}
-\keyword{Japanese language}
+\keyword{Japan}
+\keyword{Japanese map}
+\keyword{Japanese Prefecture}
 % __ONLY ONE__ keyword per line

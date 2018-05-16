@@ -1,6 +1,14 @@
+2018-05-16 Susumu Tanimura <aruminat@gmail.com>
+        * Version 0.2
+        * Reworte NipponMap-package.Rd with a new template to synchronize
+        package version with the DESCRIPTION file
+        * Fixed JapanPrefMap.Rd
+        * Revised JapanPrefMap.R to set transparent color if col is null. 
+2017-11-30 Susumu Tanimura <aruminat@gmail.com>
+	* Revised NipponMap-package.Rd
 2017-11-29 Susumu Tanimura <aruminat@gmail.com>
 	* Initial release. version 0.1
-	* Added JapanPrefCartogram() and JapanPrefCartogram.R
+	* Added JapanPrefCartogram() and JapanPrefCartogram.Rd
 	* Changed JapanPrefecturesMap() to JapanPrefMap()
 2017-11-28 Susumu Tanimura <aruminat@gmail.com>
 	* Fixed NAMESPACE
